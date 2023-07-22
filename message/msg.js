@@ -148,7 +148,7 @@ _El Bot se limita a responder ${MAX_TOKEN} palabras como máximo_
 - ${prefix}restrict enable
 - ${prefix}restrict disable\`\`\`
 
-*Editado By @5219996125657*`
+*Editado By @573245104054*`
 if (msg.isGroup) {
 conn.sendMessage(from, { text: textReply, mentions: [...textReply.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: msg });    
 } else {
@@ -395,10 +395,10 @@ break
 /*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
 /*     —◉ DESAROLLADO POR OTOSAKA:                       */
 /*     ◉ Otosaka (https://github.com/6otosaka9)          */
-/*     ◉ Número: wa.me/51993966345                       */
+/*     ◉ Número: wa.me/573245104054                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ BrunoSobrino (https://github.com/BrunoSobrino)  */
+/*     ◉ Alex.git (https://github.com/Bodysuit1263664/bodysuit)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /*-------------------------------------------------------*/  
