@@ -38,7 +38,7 @@
     "qrcode-terminal": "^0.12.0",
     "util": "^0.12.4",
     "yargs": "^17.3.1",
-    "ytdl-core": "github:BrunoSobrino/node-ytdl-core",
+    "ytdl-core": "github:Alex.git/node-ytdl-core",
     "yt-search": "^2.10.2"
   }
 }
